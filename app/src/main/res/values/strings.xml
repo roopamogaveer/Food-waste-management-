@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodWM</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_logout">Logout</string>
+</resources>
